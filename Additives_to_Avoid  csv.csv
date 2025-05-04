@@ -1,0 +1,50 @@
+ID,Category,Name,Details
+1,Food Additive,Sodium nitrate,Added to processed meats to stop bacterial growth. Linked to cancer in humans.
+2,Food Additive,Sulfites,Used to keep prepared foods fresh. Can cause breathing difficulties in those sensitive.
+3,Food Additive,Azodicarbonamide,Used in bagels and buns. Can cause asthma.
+4,Food Additive,Potassium bromate,Added to breads to increase volume. Linked to cancer in humans.
+5,Food Additive,Propyl gallate,Added to fat-containing products. Linked to cancer in humans.
+6,Food Additive,BHA/BHT,"Fat preservatives, used to extend shelf life. Linked to cancerous tumor growth."
+7,Food Additive,Propylene glycol,Used as antifreeze. Thickens dairy and salad dressing. Deemed 'generally' safe.
+8,Food Additive,Butane,Put in chicken nuggets to keep them tasting fresh. A known carcinogen.
+9,Food Additive,Monosodium glutamate (MSG),"Flavor enhancer linked to headaches, nerve damage, heart problems, seizures."
+10,Food Additive,Disodium inosinate,Used in snack foods. Contains MSG.
+11,Food Additive,Disodium guanylate,Used in snack foods. Contains MSG.
+12,Food Additive,Enriched flour,Refined starch made from toxic ingredients.
+13,Food Additive,Recombinant Bovine Growth Hormone (rBGH),Used in cows. May cause cancer.
+14,Food Additive,Refined vegetable oil,"Soybean, corn, safflower, canola, peanut oils. High in omega-6 fats. May cause cancer."
+15,Food Additive,Benzoate,Used as a preservative in salad dressing and soda. May cause cancer and DNA damage.
+16,Food Additive,Brominated vegetable oil,Flavor oil in soda. Banned in some countries. Causes organ damage.
+17,Food Additive,Propyl gallate,"Used in meats, soup mixes. Causes cancer in rats. Banned in some countries."
+18,Food Additive,Olestra,Unabsorbed fat-like substance. Causes digestive issues and heart concerns.
+19,Food Additive,Carrageenan,Used in prepared foods. Can cause ulcers and cancer.
+20,Food Additive,Polysorbate 60,Used in baked goods. Can cause cancer in lab animals.
+21,Food Additive,Camauba wax,Used in chewing gum and candy. Can cause cancer and tumors.
+22,Food Additive,Magnesium sulphate,Used in tofu. Can cause cancer in lab animals.
+23,Food Additive,Chlorine dioxide,Used in bleaching flour. Can cause tumors and hyperactivity.
+24,Food Additive,Paraben,Used to prevent mold. Can disrupt hormones and link to breast cancer.
+25,Food Additive,Sodium carboxymethyl cellulose,Used in salad dressings. Cancer risk in high quantities.
+26,Food Additive,Aluminum,Preservative in packaged foods. Can cause cancer.
+27,Artificial Sweetener,Saccharin,Carcinogen linked to bladder cancer in rats.
+28,Artificial Sweetener,Aspartame,Excitotoxin thought to be a carcinogen. Causes dizziness and stomach issues.
+29,Artificial Sweetener,High fructose corn syrup,"From GMO corn. Causes obesity, diabetes, heart problems."
+30,Artificial Sweetener,Acesulfame potassium,Used in sodas and ice cream. Causes cancer in rats.
+31,Artificial Sweetener,Sucralose,Splenda. Causes swelling in liver and kidneys.
+32,Artificial Sweetener,Agave nectar,High in fructose. Linked to insulin resistance and liver disease.
+33,Artificial Sweetener,Bleached starch,Used in dairy. Related to asthma and skin issues.
+34,Artificial Sweetener,Tert butylhydroquinone,Used in fish products. Can cause stomach tumors.
+35,Food Coloring,Red #40,Petroleum-based. Linked to hyperactivity and cancer.
+36,Food Coloring,Blue #1,Used in candy/soda. Can damage chromosomes and cause cancer.
+37,Food Coloring,Blue #2,Used in candy/soda. Can cause brain tumors.
+38,Food Coloring,Citrus red #2,Used to color oranges. Causes cancer if peel is eaten.
+39,Food Coloring,Green #3,Used in candy. May cause bladder tumors.
+40,Food Coloring,Yellow #5,Used in desserts and baked goods. Linked to kidney tumors.
+41,Food Coloring,Yellow #6,Used in sausage and beverages. Linked to kidney tumors.
+42,Food Coloring,Red #2,May cause asthma and cancer.
+43,Food Coloring,Red #3,Used in desserts. Linked to nerve damage and thyroid cancer.
+44,Food Coloring,Caramel coloring,In sauces and bread. Can cause cancer in mice.
+45,Food Coloring,Brown HT,Used in packaged foods. Can cause cancer.
+46,Food Coloring,Orange B,Used in hot dog casings. Can cause asthma and cancer.
+47,Food Coloring,Bixin,Causes hyperactivity. Affects liver and bile duct.
+48,Food Coloring,Norbixin,Causes hyperactivity and asthma.
+49,Food Coloring,Annatto,Causes hyperactivity and asthma.
